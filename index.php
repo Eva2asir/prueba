@@ -8,6 +8,8 @@
     <body>
         <?php
         // put your code here
+            phpinfo();
+            echo "Cambios";
         ?>
     </body>
 </html>
